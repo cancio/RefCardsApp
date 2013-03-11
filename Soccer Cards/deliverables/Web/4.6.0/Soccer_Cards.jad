@@ -1,0 +1,23 @@
+Manifest-Version: 1.0
+MIDlet-Version: 1.2.2
+MIDlet-Jar-Size: 144182
+RIM-COD-URL-2: Soccer_Cards-2.cod
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Jar-URL: Soccer Cards.jar
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_bbapi_mailv2,net_rim_bbapi_invoke,net_rim_os,net_rim_locationapi,net_rim_xml_org
+RIM-COD-SHA1-2: bd c0 e9 88 d3 ea 42 17 3d bb 39 e7 47 87 fb df 88 74 a9 ed
+RIM-COD-URL-1: Soccer_Cards-1.cod
+RIM-COD-SHA1-1: 48 4e 31 bb e3 4f 10 2d 4a 7e 74 c1 06 7e 16 20 bb 76 d5 26
+RIM-COD-Size-2: 52764
+RIM-MIDlet-Flags-1: 0
+RIM-COD-Size-1: 59620
+RIM-COD-Module-Name: Soccer_Cards
+MIDlet-Name: Soccer Cards
+RIM-COD-Size: 61508
+RIM-COD-Creation-Time: 1308970290
+MIDlet-1: Referee Cards,logorevision.png,
+RIM-COD-URL: Soccer_Cards.cod
+MIDlet-Description: An application that displays red and yellow screens to be displayed as referree cards.
+RIM-COD-SHA1: 49 c4 26 45 7a 50 ea ba e0 26 da c8 e1 81 2a 3b 04 b7 b8 41
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Vendor: Antonio Cancio

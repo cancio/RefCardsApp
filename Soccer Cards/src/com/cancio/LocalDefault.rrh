@@ -1,0 +1,10 @@
+package com.cancio;
+
+MUTE#0=0;
+UNMUTE#0=1;
+SENDVIA#0=2;
+STATS#0=3;
+RED#0=4;
+YELLOW#0=5;
+EMAILSUBJECT#0=6;
+EMAILBODY#0=7;

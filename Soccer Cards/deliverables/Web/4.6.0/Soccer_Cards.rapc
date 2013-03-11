@@ -1,0 +1,10 @@
+MIDlet-Name: Soccer Cards
+MIDlet-Version: 1.2.2
+MIDlet-Vendor: Antonio Cancio
+MIDlet-Description: An application that displays red and yellow screens to be displayed as referree cards.
+MIDlet-Jar-URL: Soccer Cards.jar
+MIDlet-Jar-Size: 0
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: Referee Cards,logorevision.png,
+RIM-MIDlet-Flags-1: 0

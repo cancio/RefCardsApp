@@ -1,0 +1,41 @@
+<loader version="1.0">
+	<application id="Soccer_Cards">
+		<name >
+			Referee Cards
+		</name>
+		<description >
+			An application that displays red and yellow screens to be displayed as referree cards.
+		</description>
+		<version >
+			1.2.2
+		</version>
+		<vendor >
+			Antonio Cancio
+		</vendor>
+		<copyright >
+			Copyright (c) 2011 Antonio Cancio
+		</copyright>
+		<fileset Java="1.49" _blackberryVersion="[4.6.0,4.6.1)">
+			<directory >
+				4.6.0
+			</directory>
+			<files >
+				Soccer_Cards.cod
+
+			</files>
+
+		</fileset>
+		<fileset Java="1.49" _blackberryVersion="[4.7.0)">
+			<directory >
+				4.7.0
+			</directory>
+			<files >
+				Soccer_Cards.cod
+
+			</files>
+
+		</fileset>
+
+	</application>
+
+</loader>
